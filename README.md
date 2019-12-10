@@ -53,3 +53,4 @@ See the section about [deployment](#deployment) for more information.
 
 ### `npm run eject`
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
